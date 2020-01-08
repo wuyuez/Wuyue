@@ -26,7 +26,7 @@ author = "五月"
 email = "admin@admin"
 author_homepage = "https://wuyuez.github.io/Wuyue/"
 description = "从多个角度看这个世界！"
-key_words = ['Maverick', 'wuyue', 'Galileo', 'blog']
+key_words = ['Maverick', 'wuyue', 'Galileo', 'Blog']
 language = 'zh-CN'
 external_links = [
     {
